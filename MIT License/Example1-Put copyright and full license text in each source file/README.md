@@ -1,5 +1,5 @@
 # Example1 : Put copyright and full license text in each source file
-Write the following text at the top of every file and replace <YEAR> and <COPYRIGHT HOLDER>.
+Write the following text at the top of every file and replace <YEAR> and <COPYRIGHT HOLDER>.  
 ```
 /*
 MIT License
